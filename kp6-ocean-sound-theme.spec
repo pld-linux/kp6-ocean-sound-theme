@@ -8,7 +8,7 @@ Summary:	Sound files for Plasma
 Summary(pl.UTF-8):	Pliki dżwiękowe dla Plasmy
 Name:		kp6-%{kpname}
 Version:	6.6.4
-Release:	1
+Release:	2
 License:	BSD-2-Clause/CC-BY-3.0/CC0-1.0/LGPL-3.0-or-later
 Group:		X11/Applications/Sound
 Source0:	https://download.kde.org/stable/plasma/%{kdeplasmaver}/%{kpname}-%{version}.tar.xz
